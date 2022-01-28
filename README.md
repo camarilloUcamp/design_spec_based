@@ -1,5 +1,6 @@
 ## PROYECTO BASADO EN ESPECIFICACIONES DE DISEÑO: HTML & CSS
-#### (scroll for the english version)
+- #### (scroll for the english version)
+- #### Probado en Chrome
 
 ### TEA COZY
 
@@ -14,6 +15,7 @@ _________________
 
 
 ## DESIGN SPEC BASED PROJECT: HTML & CSS
+- #### Chrome Tested
 
 ### TEA COZY
 
